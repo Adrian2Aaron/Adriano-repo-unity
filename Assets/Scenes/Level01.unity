@@ -2484,6 +2484,10 @@ MonoBehaviour:
   - {fileID: 1913969110}
   - {fileID: 1806416195}
   - {fileID: 977179558}
+  actionsCost:
+  - {fileID: 158201802}
+  - {fileID: 1812895756}
+  - {fileID: 334713433}
 --- !u!1 &1913969110
 GameObject:
   m_ObjectHideFlags: 0
